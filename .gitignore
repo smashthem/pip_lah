@@ -31,3 +31,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/results/
 /tymck
 /baseadmin
+/application/config/database.php
