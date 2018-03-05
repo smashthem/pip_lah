@@ -1,0 +1,21 @@
+footer.main-footer{
+
+    padding-bottom: 0;
+    /*background: #467fbf;*/
+    color: #fff;
+
+}
+
+select.form-control:not([size]):not([multiple]) {
+     height: calc(2.25rem + 2px); 
+}
+input.form-control:not([size]):not([multiple]) {
+     height: calc(2.25rem + 2px); 
+}
+
+.box {
+    margin: 80px 0;
+    /* border-top: 1px solid #ddd; */
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
